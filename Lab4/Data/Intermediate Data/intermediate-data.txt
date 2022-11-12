@@ -1,0 +1,1 @@
+This is a dummy text file not allowing GitHub to ignore my directories!
