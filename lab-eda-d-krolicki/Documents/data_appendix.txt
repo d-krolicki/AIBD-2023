@@ -1,0 +1,1 @@
+Analiza danych została przeprowadzona w pliku Jupyter Notebook "lab-eda.ipynb", znajdującym się w folderze "Command Files".

@@ -1,0 +1,15 @@
+Zbiór danych pochodzi z pewnej sieci sklepów z województwa zachodniopomorskiego.
+Danymi są wyniki oceny odkurzaczy powiązane z danymi kupujących.
+Dane są przechowywane w formacie CSV.
+Wielkość zestawu danych to 525 próbek.
+Każda z próbek zawiera następujące kolumny:
+- Ilość dni która upłynęła między zakupem a wystawieniem oceny
+- Marka produktu
+- Wiek kupującego
+- Płeć kupującego (jeżeli nie podano, wpisane jest "bd." jako brak danych)
+- Ocena (w skali od 0 do 5 z krokiem 0.5).
+
+
+Dane są dostępne pod tym linkiem:
+https://github.com/KAIR-ISZ/public_lectures/tree/master/Analiza%20i%20Bazy%20Danych%202021/Lab%202/Datasets
+
